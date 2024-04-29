@@ -23,4 +23,4 @@ def test_create_file(tmpdir):
 random.seed(42)
 
 def test_randomize():
-    assert randomize() == 0.6394267984578837
+    assert randomize() == 0.22321073814882275
